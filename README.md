@@ -23,7 +23,11 @@ To setup WebdriverIO use command:<br>
  ``<br>
 Documentation: https://webdriver.io/docs/gettingstarted
 
-### 4. Faker.js library
+### 4. Run test
+To run test use command:<br>
+``npm run wdio``
+
+### Additional information:
 
 Faker.js library is used.
 ``
@@ -31,6 +35,4 @@ npm install @faker-js/faker --save-dev
 ``<br>
 Documentation: https://fakerjs.dev/
 
-## Run test
-To run test use command:<br>
-``npm run wdio``
+
